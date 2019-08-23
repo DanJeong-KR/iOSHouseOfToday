@@ -657,9 +657,9 @@
 		8E5B59E222D5AC3F00BB01E8 /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
-				4230869822F1658D00203475 /* ShowPolicyVC.swift */,
 				AB1AF94222EDBF2F00299226 /* FontFoundation.swift */,
 				8E5B59E422D5AC7100BB01E8 /* Logger.swift */,
+				4230869822F1658D00203475 /* ShowPolicyVC.swift */,
 				8EC2173622F29789006CFD1D /* HelperFunctions.swift */,
 				8E9F6DEA22F3EBBE00DB9869 /* ErrorLogs.swift */,
 			);
