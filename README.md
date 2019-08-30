@@ -23,11 +23,11 @@ Backend, Frontend, iOS까지 총 10명이 한 팀으로 구성하여 하나의 �
 
 * 플로우 차트 - AdobeXD
 
-<a href="/assets/design_adobeXD.gif" target="_blank"><img src="/assets/design_adobeXD.gif"></a>
+<a href="/images/design/design_adobeXD.gif" target="_blank"><img src="/images/design/design_adobeXD.gif"></a>
 
 * 명세서 작성 - Keynote
 
-<a href="/assets/design_keynote.pdf" target="_blank"><img src="/assets/design_keynote.gif" width=600></a>
+<a href="/assets/design_keynote.pdf" target="_blank"><img src="/images/design/design_keynote.gif" width=600></a>
 
 * 데이터 모델 설계 - 마인드맵
 
