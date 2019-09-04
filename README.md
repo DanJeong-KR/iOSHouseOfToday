@@ -4,7 +4,7 @@ Backend, Frontend, iOS까지 총 10명이 한 팀으로 구성하여 하나의 �
 현재 매우 빠르게 성장중인 스타트업인 버킷플레이스가 서비스하고 있는 인테리어 플랫폼 `오늘의 집`을 클론한 프로젝트  <br>
 * 기간 : 2019.07 ~ 현재
 * 소속 : 회식First팀 (Backend 4명, Frontend 3명, iOS 3명)
-* 역할 : iOS팀 팀장으로써 다른 팀과의 의사소통 전반, 자체 로그인과 소셜로그인(카카오, 구글, 네이버), 커스텀 UI(CustomCatetoryTabBar), 마이페이지와 사용자 프로필 전반 담당
+* 역할 : iOS팀 팀장으로써 다른 팀과의 의사소통 전반, 자체 로그인과 소셜로그인(카카오, 구글, 네이버), 커스텀 UI(CustomCatetoryTabBar), 마이페이지와 사용자 프로필 전반 담당.
 * 사용기술
   * Swift5
   * 라이브러리 : SwiftLint, Kingfisher, SnapKit
